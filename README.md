@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JEPTUI
-- 👀 I’m interested in being a full stack developer
+- 👀 I’m a full stack developer
 - 🌱 I’m currently learning software engineering with alx
 - 💞️ I’m looking to collaborate on projects that will help me improve my skils.
 - 📫 How to reach me ...via mail @alicejeptui@gmail.com
